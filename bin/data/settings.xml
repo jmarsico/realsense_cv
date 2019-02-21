@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<group>
+	<Reset_Background>0</Reset_Background>
+	<Learning_Time>1825.14</Learning_Time>
+	<Threshold_Value>34.425</Threshold_Value>
+	<Radius>40</Radius>
+	<Min_area>10</Min_area>
+	<Max_area>200</Max_area>
+	<Threshold>128</Threshold>
+	<Holes>0</Holes>
+	<Max_Dist>18.5</Max_Dist>
+	<noise_thresh>4</noise_thresh>
+</group>
